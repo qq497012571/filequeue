@@ -1,0 +1,19 @@
+{
+    "name": "godv/filequeue",
+    "type": "library",
+    "description": "filequeue is a PHP queue library",
+    "keywords": ["file-queue", "filequeue", "queue"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Libin Jiang",
+            "email": "497012571@qq.com",
+            "homepage": "https://github.com/qq497012571"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Godv\\": "src/"
+        }
+    },
+}
